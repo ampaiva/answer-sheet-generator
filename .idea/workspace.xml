@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a556d115-1d11-4205-b52b-f33b8c82d322" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../LogRock/pyrite/app/ringcentral_bot/housekeeping/tests/test_update_producers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LogRock/pyrite/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../LogRock/pyrite/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LogRock/pyrite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../LogRock/pyrite/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LogRock/pyrite/app/ringcentral_bot/dispatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LogRock/pyrite/app/ringcentral_bot/dispatcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LogRock/pyrite/app/ringcentral_bot/housekeeping/update_producers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LogRock/pyrite/app/ringcentral_bot/housekeeping/update_producers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ampaiva"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ampaiva/answer-sheet-generator.git",
+    "accountId": "a4ad871b-a7a4-48a1-82c6-7c866e937939"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30qGhtburMHHHJ16RyqHrZqiiCL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/apaiva/git/my/answer-sheet-generator",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a556d115-1d11-4205-b52b-f33b8c82d322" name="Changes" comment="" />
+      <created>1754347811199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754347811199</updated>
+      <workItem from="1754347812239" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
