@@ -1,5 +1,4 @@
 import pytest
-from pathlib import Path
 from src.answer_sheet_generator.generator import AnswerSheetGenerator
 
 
